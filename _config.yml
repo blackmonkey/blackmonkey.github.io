@@ -1,0 +1,70 @@
+theme: mediator
+
+# name of your site
+title: 黑猴随笔
+
+# description of your site
+description: 记录生活中的感悟，当然，多数是编程相关的
+
+# small logo for the site (300x * 300x)
+logo: "/images/blog_logo.png"
+float_logo: true
+
+# large background image on the index page
+cover: "/images/retrosupply-jLwVAUtLOAQ-unsplash.jpg"
+
+# name of site owner
+name: Oscar Cai
+
+# mail address of the site owner
+email: blackmuffus@yahoo.com
+
+# author name
+author: Oscar Cai
+
+# small image of author (300x * 300px)
+author_image: "/images/me.png"
+
+paginate: 10
+
+#fill in disqus shortname to use disqus
+#disqus: disqus-shortname
+
+#google_analytics: UA-XXXXX-X
+
+# social icons and sharing options
+social:
+#  - icon: twitter
+#    url:  https://twitter.com/dirkfabisch
+#    desc: Follow me on twitter
+#    share_url: http://twitter.com/share
+#    share_title: ?text=
+#    share_link: "&amp;url="
+
+  - icon:  facebook
+    url: https://www.facebook.com/blackmuffus/
+    desc: Connect me on facebook
+    share_url: https://www.facebook.com/sharer.php
+    share_title: ?t=
+    share_link: "&amp;u="
+
+  - icon: github
+    url:  https://github.com/blackmonkey
+    desc: Fork me on github
+    share_url:
+    share_title:
+    share_link:
+
+  - icon: linkedin
+    url:  https://www.linkedin.com/in/oscar-cai-a275b994/
+    desc: Connect me on linkedin
+    share_url:
+    share_title:
+    share_link:
+
+#  - icon:  google-plus
+#    url: https://google.com/???
+#    desc:  Add me on google+
+#    share_url:
+#    share_title:
+#    share_link:
